@@ -1,0 +1,7 @@
+Map Area Used for this project:
+
+https://mapzen.com/data/metro-extracts/metro/honolulu_hawaii/
+
+This extract contains the entire island of Oahu. Honolulu is the main city on Oahu and is also the capital of the state of Hawaii.
+
+I chose this area because I’ve visited the island once (in 2006) and had a great trip.

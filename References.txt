@@ -1,0 +1,23 @@
+REFERENCES
+——————————
+
+1. Map Area Used for this project:
+
+https://mapzen.com/data/metro-extracts/metro/honolulu_hawaii/
+
+
+2. Code used for generating the ’SAMPLE_FILE’ from the OSM_FILE was taken
+from Slide #2 (‘Project Details’) from the Udacity ‘Project Prep’ section
+for Data Analyst Nanodegree Project #3:
+
+https://classroom.udacity.com/nanodegrees/nd002/parts/0021345404/modules/316820862075463/lessons/3168208620239847/concepts/77135319070923#
+
+3. Code used for generating the SQL Schema:
+
+https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+
+4. Much code was taken from the Udacity slides for Data Analyst Nanodegree: Project 3
+
+5. Many coding questions (too many to list) were addressed on stackoverflow.com
+
+6. Many questions were addressed on the Udacity forum for this project.
