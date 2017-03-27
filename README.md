@@ -3,6 +3,7 @@ Data wrangling and analysis of Honolulu OSM data using python and SQL
 
 ## Purpose
 
+The purpose of this project is to gain familiarity with wrangling and cleaning a large data set (>50MB), importing the data set to a database (SQLite in this case) and then extracting and analyzing the data further. OpenStreetMap (OSM) data was selected for this exercise. I specifically chose the island of Oahu, Hawaii for this project.
 
 ## Additional Documents
 
